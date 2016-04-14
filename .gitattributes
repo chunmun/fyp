@@ -1,0 +1,6 @@
+data/all.vardec filter=lfs diff=lfs merge=lfs -text
+data/atranscript.txt.proc filter=lfs diff=lfs merge=lfs -text
+data/crtranscript.txt.proc filter=lfs diff=lfs merge=lfs -text
+data/generate_proc.py filter=lfs diff=lfs merge=lfs -text
+data/preproc-blank.py filter=lfs diff=lfs merge=lfs -text
+data/ filter=lfs diff=lfs merge=lfs -text
